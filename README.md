@@ -19,4 +19,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Further help
 
-To get more help just comment on Medium your question with the necessary references  
+To get more help just email bytes21@zoho.com your question with the necessary references  
